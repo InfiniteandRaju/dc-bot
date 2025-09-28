@@ -1,14 +1,14 @@
 {
     "channel_ids": {
         "minecraft_plans": 123456789,
-        "vps_plans": 123456790,
+        "vps_plans": 1421542678109360320,
         "developer_plans": 123456791,
-        "domain_plans": 123456792,
-        "booster_plans": 123456793,
-        "youtuber_plans": 123456794,
-        "partnership": 123456795,
-        "ticket_category": 123456796,
-        "log_channel": 123456797,
-        "giveaway_channel": 123456798
+        "domain_plans": 1421542715044270282,
+        "booster_plans": 1421542669636734986,
+        "youtuber_plans": 1421542671171850301,
+        "partnership": 1421542672744841468,
+        "ticket_category": 1421811717310120007,
+        "log_channel": 1421812300251140226,
+        "giveaway_channel": 1421542745994035271
     }
 }
